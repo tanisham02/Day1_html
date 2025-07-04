@@ -22,3 +22,11 @@ Favicon : A small icon displayed in the browser tab.
 Set using a <link> tag in the <head>.
 eg: 
 <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+
+## TOPICS: Headings: <h1> to <h6>
+Paragraphs: <p>
+Line breaks: <br>
+Horizontal rule: <hr>
+Emphasis: <strong>, <em>, <mark>, <b>, <i>, <u>
+Quotes: <blockquote>, <q>, <cite>
