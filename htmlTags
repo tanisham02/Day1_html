@@ -1,0 +1,31 @@
+1. headings
+<h1> Main Heading </h1>
+<h2> Last Heading </h2>
+
+2. paragraph
+<p> This is a PARAGRAPH of long text </p>
+
+3. line breaks
+Line one <br> Line two
+
+4. horizontal break 
+<hr>
+
+5. Text Emphasis & Styling
+<strong> Strong Text </strong>
+<em> Emphasis text (italic) </em>
+<mark> Highlighted text </mark>
+<b> Bold </b>
+<i> Italic </i>
+<u> Underlined text </u>
+
+6. Quotes
+<blockquote>
+  "This is a long quote."                   //block level
+</blockquote>
+<p>She said, <q> Hello there! </q></p>       //inline quotation
+<p><cite>— William Shakespeare </cite></p>   //cites the source of quote/work
+
+
+ 
+
