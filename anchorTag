@@ -1,0 +1,23 @@
+<a href="URL"> Link Text </a>
+
+Types of Links:
+1. <a href="about.html">About Us</a>                             //internal
+
+2. <a href="https://www.example.com"> Visit Example </a>         //external
+
+3. <a href="files/report.pdf" download> Download Report </a>      //download
+
+4. <a href="mailto:someone@example.com"> Email Us </a>            //email
+
+5. <a href="tel:+1234567890"> Call Us </a>                        //telephone
+
+
+## target Attribute: 
+<a href="https://example.com" target="_blank"> Open in new tab </a>   //_blank
+<a href="home.html" target="_self"> Open in same tab </a>             //_self
+
+
+## anchor links:  
+<h2 id="contact"> CONTACT US </h2>                   //target section
+<a href="#contact"> Go to Contact Section </a>       //link to section
+
