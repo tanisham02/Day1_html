@@ -24,7 +24,8 @@ eg:
 <link rel="icon" href="favicon.ico" type="image/x-icon">
 
 
-## TOPICS: Headings: <h1> to <h6>
+## TOPICS: 
+Headings: <h1> to <h6>
 Paragraphs: <p>
 Line breaks: <br>
 Horizontal rule: <hr>
