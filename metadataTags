@@ -1,0 +1,14 @@
+1. <title> My PAGE </title>
+
+2. <meta charset="UTF-8">
+<meta name="description" content="A simple webpage">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+3. <html lang="en">
+
+4. <head>
+  <!-- Metadata goes here -->
+</head>
+
+
