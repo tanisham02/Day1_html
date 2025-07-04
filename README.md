@@ -15,6 +15,9 @@ Comments in HTML
 
 ## HTML structure:
 <!DOCTYPE html> → Document type declaration
+
 <html> → Root element of the HTML page
+  
 <head> → Metadata (title, styles, etc.)
+  
 <body> → Content that displays in the browser
