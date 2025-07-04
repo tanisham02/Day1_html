@@ -11,4 +11,21 @@
   <!-- Metadata goes here -->
 </head>
 
+5. <body>
+  <h1> Welcome! </h1>
+</body>
+
+6. <link rel="stylesheet" href="styles.css">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+
+7. <style>
+  body { background-color: #f0f0f0; }
+</style>
+
+8. <script>
+  alert("Hello, world!");
+</script>
+
+<!-- OR link to ext. JS -->
+<script src="script.js"></script>
 
